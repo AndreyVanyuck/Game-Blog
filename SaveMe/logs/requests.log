@@ -1,0 +1,36 @@
+2020-05-24 16:58:16,541 - INFO - Watching for file changes with StatReloader
+2020-05-24 16:59:15,097 - INFO - "GET / HTTP/1.1" 200 5476
+2020-05-24 16:59:15,114 - INFO - "GET /media/urls/-zl-IOTU5u8_e5SKgnB.jpg HTTP/1.1" 304 0
+2020-05-24 17:01:46,180 - INFO - "GET / HTTP/1.1" 200 5476
+2020-05-24 17:01:59,959 - INFO - "GET / HTTP/1.1" 200 5449
+2020-05-24 17:02:20,541 - INFO - "GET / HTTP/1.1" 200 5449
+2020-05-24 17:10:18,135 - INFO - E:\SaveMe\urls\models.py changed, reloading.
+2020-05-24 17:10:18,584 - INFO - Watching for file changes with StatReloader
+2020-05-24 17:11:12,861 - INFO - Watching for file changes with StatReloader
+2020-05-24 17:11:15,223 - INFO - "GET / HTTP/1.1" 200 5449
+2020-05-24 17:11:59,036 - INFO - "GET / HTTP/1.1" 200 5434
+2020-05-24 17:14:52,915 - INFO - "GET / HTTP/1.1" 200 5434
+2020-05-24 17:14:57,303 - INFO - "GET /accounts/logout/ HTTP/1.1" 200 2161
+2020-05-24 17:14:58,174 - INFO - "GET /accounts/login/ HTTP/1.1" 200 3871
+2020-05-24 17:15:00,880 - INFO - "GET /accounts/logout/ HTTP/1.1" 200 2161
+2020-05-24 17:15:03,168 - INFO - "GET /accounts/logout/ HTTP/1.1" 200 2161
+2020-05-24 17:15:04,682 - INFO - "GET / HTTP/1.1" 200 5431
+2020-05-24 17:15:30,089 - INFO - "GET / HTTP/1.1" 200 5457
+2020-05-24 17:15:30,954 - INFO - "GET / HTTP/1.1" 200 5457
+2020-05-24 17:16:19,698 - INFO - "GET / HTTP/1.1" 200 5461
+2020-05-24 17:16:50,947 - WARNING - Not Found: /index.html
+2020-05-24 17:16:50,948 - WARNING - "GET /index.html HTTP/1.1" 404 4484
+2020-05-24 17:17:19,099 - INFO - "GET / HTTP/1.1" 200 5461
+2020-05-24 17:17:20,789 - INFO - "GET /RPGIG/ HTTP/1.1" 200 7393
+2020-05-24 17:17:20,808 - INFO - "GET /static/images/te2.jpg HTTP/1.1" 304 0
+2020-05-24 17:17:20,810 - WARNING - Not Found: /RPGIG/bundles/images/about.jpg
+2020-05-24 17:17:20,811 - WARNING - Not Found: /RPGIG/bundles/images/d1.jpg
+2020-05-24 17:17:20,813 - WARNING - Not Found: /RPGIG/bundles/images/admin.jpg
+2020-05-24 17:17:20,814 - WARNING - "GET /RPGIG/bundles/images/about.jpg HTTP/1.1" 404 4544
+2020-05-24 17:17:20,814 - WARNING - "GET /RPGIG/bundles/images/d1.jpg HTTP/1.1" 404 4535
+2020-05-24 17:17:20,814 - WARNING - "GET /RPGIG/bundles/images/admin.jpg HTTP/1.1" 404 4544
+2020-05-24 17:17:21,611 - INFO - "GET / HTTP/1.1" 200 5461
+2020-05-24 17:50:29,990 - INFO - Watching for file changes with StatReloader
+2020-05-24 17:54:40,091 - INFO - E:\SaveMe\SaveMe\settings.py changed, reloading.
+2020-05-24 17:54:40,540 - INFO - Watching for file changes with StatReloader
+2020-05-24 17:54:48,981 - INFO - E:\SaveMe\SaveMe\settings.py changed, reloading.
